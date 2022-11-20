@@ -1,14 +1,13 @@
 import React from 'react';
 
-// TODO: Add a comment explaining what a react component is
-function Header() {
-  const text = 'some text';
 
-  // TODO: Add a comment explaining what JSX is and the significance of the curly braces
+function Header() {
+  const text = '';
+ 
   return <div>
-    Hello I'm Jordan Smith {text}
-    <p>Newbie Software Developer</p>
+    <h5>Hello I'm</h5> {text}
+    <h1>Jordan Smith</h1>
+    <h5>Fullstack Developer in training</h5>
     </div>;
 }
-
 export default Header;
