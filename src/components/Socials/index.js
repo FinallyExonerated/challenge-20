@@ -14,6 +14,5 @@ export default function Socials() {
 
 
 
-<a href="https://github.com/FinallyExonerated"
-<a href="www.linkedin.com/in/jordan-smith-8281b1237"
+
 
