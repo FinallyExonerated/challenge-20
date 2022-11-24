@@ -6,8 +6,8 @@ function Footer() {
 
   // TODO: Add a comment explaining what JSX is and the significance of the curly braces
   return <div>
-    Hello World! Here is {text}
-    <p>Hello my name is Jordan</p>
+    {text}
+    <p></p>
     </div>;
 }
 
